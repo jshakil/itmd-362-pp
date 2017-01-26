@@ -11,7 +11,7 @@ shortcuts and everything else on our desktops. We work on files wherever they ha
 download them from the web or via an email attachment.
 
 No more. This week is about getting yourself organized, and looking like a true pro next time
-someone peaks over your shoulder at your desktop.
+someone peeks over your shoulder at your desktop.
 
 ## Deliverables
 
@@ -65,6 +65,8 @@ screenshot, then copy it to this directory (`pp-02`) and add and commit it to th
 Then, also list here the keyboard commands to switch between your different virtual desktops (on
 some operating systems, you might be able to customize the shortcuts to your own liking):
 
+Ctrl + Left or Right arrow key to move between desktops on Mac
+
 
 4. Set up a distraction-free browser.
 
@@ -86,6 +88,8 @@ notifications. On your desktop device and on one of your devices, take a screens
 where you can disable all notifications. Create the screenshots, transfer them to wherever you’re
 working on your Production Problems, then copy them to this directory (`pp-02`) and add and commit
 them to the repository.
+
+NOTE: I own a BlackBerry as my daily device. So...there aren't that many apps out there that I can download. So I don't receive notifications for anything except emails.
 
 6. Invest in a machine-washable microfiber cloth & clean your screens.
 
