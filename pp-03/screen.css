@@ -175,3 +175,15 @@ textarea {
   -webkit-appearance: button; /* 1 */
   font: inherit; /* 2 */
 }
+
+/* BASE STYLES */
+
+/*
+    Perfect Fifth Modular Scale: 
+    http://www.modularscale.com/?1&em&1.5&web&text
+*/
+
+html {
+    font-size: 1.25em; /* 20px */
+    line-height: 1.875em; /* 30px */
+}
