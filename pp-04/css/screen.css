@@ -204,6 +204,18 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
+#input-email {
+  background-color: #BDC3C7;
+}
+
+#age-verification {
+  background-color: #BDC3C7;
+}
+
+#input-submit {
+    background-color: #BDC3C7;
+}
+
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
