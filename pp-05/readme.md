@@ -13,8 +13,8 @@ Your Rationale: I have a strong personal feeling that green corresponds with gee
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=32r0u0klzkFbcv1gApzqIfqwga9
+Your Rationale: The green symbolizes plants, or nature (grass). The purple and the red resembles flowers. Lavender/Indigo and roses.
 
 3. A triadic color palette for styling the login page for a private messaging app
 
