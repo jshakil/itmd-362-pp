@@ -23,6 +23,6 @@ Your Rationale: Purple: Royalty and privacy. The gold: luxurious and gives the i
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=15C0u0klzkFbcv1gApzqIfqwga9
+Your Rationale: A shade of red for the gem that is Ruby, (also since I know red is used with Ruby on Rails.) Makes it look like it's a strong bold statement being made, (leadership quality.)
 
