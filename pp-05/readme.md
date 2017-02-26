@@ -8,8 +8,8 @@ Opt for the Paletton Preview mode Default with Text; you can start at this URL i
 
 1. An adjacent color palette for introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=5320u0kllllaFw0g0qFqFg0w0aF
+Your Rationale: I have a strong personal feeling that green corresponds with geeks/geek stuff and like a "power on" mode. The blue gives it a technology feeling, something that corresponds with currents/electricity.
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
 
