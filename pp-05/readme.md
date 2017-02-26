@@ -18,8 +18,8 @@ Your Rationale: The green symbolizes plants, or nature (grass). The purple and t
 
 3. A triadic color palette for styling the login page for a private messaging app
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=3100u0klzkFbcv1gApzqIfqwga9
+Your Rationale: Purple: Royalty and privacy. The gold: luxurious and gives the impression of wealth (high important app), and the sea blue gives it a technology acknowledgement. 
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
