@@ -206,8 +206,7 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 #input-email {
-  padding-top: 1em;
-  
+  padding-top: 1.375em; 
 }
 
 #email {
@@ -217,11 +216,11 @@ label {
 
 #age-verification {
   background-color: #BDC3C7;
-  padding-bottom: 
 }
 
 #input-submit {
   height: 2em;
+  padding-top: 1.375em;
 }
 
 #submit {
