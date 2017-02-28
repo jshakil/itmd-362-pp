@@ -194,7 +194,7 @@ img, audio, video {
 html {
   font-family: Verdana, Geneva, sans-serif;
   font-size: 1.375em; /* 22px */
-  line-height: 1.182em; /* 26px / ~ 120% */
+  line-height: 1.375; /* 30px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
@@ -206,18 +206,31 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 #input-email {
+  padding-top: 1em;
+  
+}
+
+#email {
+  /*Input region has gray color, not sure if you meant it like the way I have it or the whole line itself...*/
   background-color: #BDC3C7;
 }
 
 #age-verification {
   background-color: #BDC3C7;
+  padding-bottom: 
 }
 
 #input-submit {
-    background-color: #BDC3C7;
+  height: 2em;
+}
+
+#submit {
+    /*Input region has gray color, not sure if you meant it like the way I have it or the whole line itself...*/
+  background-color: #BDC3C7;
 }
 
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
+
 
