@@ -199,6 +199,11 @@ html {
   text-rendering: optimizeLegibility;
 }
 
+h1 {
+  padding-bottom: 1.375em;
+  padding-left: 1.375em;
+}
+
 label {
   display: block;
 }
@@ -206,7 +211,8 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 #input-email {
-  padding-top: 1.375em; 
+  padding-top: 1.375em;
+  padding-bottom: 1.375em;
 }
 
 #email {
