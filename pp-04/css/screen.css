@@ -238,4 +238,9 @@ label {
 
 /* ===== STATE STYLES ======= */
 
+html.wf-active {
+    font-family: 'Amiko', Verdana, Geneva, sans-serif;
+    
+}
+
 
