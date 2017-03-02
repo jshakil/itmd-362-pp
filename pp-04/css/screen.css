@@ -227,6 +227,7 @@ label {
 #input-submit {
   height: 2em;
   padding-top: 1.375em;
+  padding-left: 3.375em;
 }
 
 #submit {
@@ -239,8 +240,7 @@ label {
 /* ===== STATE STYLES ======= */
 
 html.wf-active {
-    font-family: 'Amiko', Verdana, Geneva, sans-serif;
-    
+    font-family: 'Amiko', Verdana, Geneva, sans-serif;  
 }
 
 
