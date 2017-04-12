@@ -26,11 +26,24 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
+* HCI Guidline One (URL): 
+  https://developer.apple.com/ios/human-interface-guidelines/graphics/custom-icons/
+  
 * How you implemented it in your sketch:
+
+  I placed some icons in the username and passwsord fields. A small picture of a person, for the username to make the relation with the username field, and the password field has an icon of a password with hidden characters. The login icon has the checkmark to give the "finish or complete" look.
+ 
 
 * HCI Guidline Two (URL):
+  https://developer.apple.com/ios/human-interface-guidelines/ui-bars/search-bars/
+  
 * How you implemented it in your sketch:
 
+  I added in a search icon for when the user wants to search for something specifc. Such as help, would yield results such as IIT alert, forgot password, etc. 
+
 * HCI Guidline Three (URL):
+  https://developer.apple.com/ios/human-interface-guidelines/interaction/loading/
+
 * How you implemented it in your sketch:
+  
+  When the user clicks on the login button, the button will then display a loading icon validating the credentials. Once the credentials are validated, it will say success or display a check mark as an icon.
