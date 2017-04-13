@@ -12,11 +12,11 @@ A. Photograph of the object (place in the pp-09/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: When I look at my pencil, I see a tool that is used for many things. Writing, drawing, homework, design, skethes, ideas. I associate it with creativity and an open world
 
-* Behavioral:
+* Behavioral: I enjoy the design of my pencil (I actually bought it because of it's design), it's comfortable to use over periods of time. It has a soft rubber coating, and is round all over. As opposed to traditional pencils that have that shape with lines that are popping out. For instance, writing a rough draft or sketching does not make my fingers sore from holding the pencil.
 
-* Reflective:
+* Reflective: When I'm done with my pencil, and set it back down. I have a feeling of not being professional or smart. I feel like the way it looks is very powerful and when I'm not using it, it makes me want to pick it up and start designing or jotting down ideas. It gives me the sense that I'm a big shot at a firm, or I run my own company.
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
