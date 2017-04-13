@@ -12,7 +12,7 @@ A. Photograph of the object (place in the pp-09/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral: When I look at my pencil, I see a tool that is used for many things. Writing, drawing, homework, design, skethes, ideas. I associate it with creativity and an open world
+* Visceral: When I look at my pencil, I see a tool that is used for many things. Writing, drawing, homework, design, skethes, ideas. I associate it with creativity and a ever expanding canvas in an open mind.
 
 * Behavioral: I enjoy the design of my pencil (I actually bought it because of it's design), it's comfortable to use over periods of time. It has a soft rubber coating, and is round all over. As opposed to traditional pencils that have that shape with lines that are popping out. For instance, writing a rough draft or sketching does not make my fingers sore from holding the pencil.
 
