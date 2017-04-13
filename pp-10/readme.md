@@ -16,4 +16,8 @@ Take a screenshot of the interface on both a mobile and desktop device. Then, sk
 
 Description: 
 
-I decided to add some color to the login forms usign the same color scheme found in their logo. Instead of having bricks for the alternative FaceBook and Google logins, I decided to just implement the icons since they are widely recognized. I also used a bit more color on the login icon, to give a more cheerful and rewarding experience to the user.
+I decided to add some color to the login page using the same color scheme found in their logo. Instead of having bricks (rectangle buttons) for the alternative FaceBook and Google logins, I decided to just implement the icons since they are widely recognized. I also used a bit more color on the login icon, to give a more cheerful and rewarding experience to the user.
+
+Description of HTML, CSS, and JS:
+
+HTML would require a login form and have the placeholders would have the labels inside the form elements. CSS would have several properties, for the form elements it would have the orange color, it would also have the  login icons for Google and FaceBook. The logo would also be applied with HTML and resized with CSS. As for JavaScript, it would handle error checking to see if the username and password fields have been entered in, as well as a loading screen to verify the credentials.
