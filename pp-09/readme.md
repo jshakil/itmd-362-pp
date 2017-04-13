@@ -13,13 +13,13 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Logo
+2. Line spacing
+3. Personality
+4. Few form fields 
+5. Check for correct 
+6. Transitions
+7. Responsive layouts
+8. Bigger areas
+9. Faster load times
+10. Valid HTML & CSS using validators
