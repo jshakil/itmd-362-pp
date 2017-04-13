@@ -20,4 +20,4 @@ I decided to add some color to the login page using the same color scheme found 
 
 Description of HTML, CSS, and JS:
 
-HTML would require a login form and have the placeholders would have the labels inside the form elements. CSS would have several properties, for the form elements it would have the orange color, it would also have the  login icons for Google and FaceBook. The logo would also be applied with HTML and resized with CSS. As for JavaScript, it would handle error checking to see if the username and password fields have been entered in, as well as a loading screen to verify the credentials.
+HTML would require a login form and the placeholders (Username and Password) would be visible inside the form elements. CSS would have several properties, for the form elements it would have the orange color, it would also have the  login icons for Google and FaceBook. The logo would also be applied with HTML and resized with CSS. As for JavaScript, it would handle error checking to see if the username and password fields have been entered in, as well as a loading screen to verify the credentials.
